@@ -3,6 +3,6 @@
 </br>
 <p align="center">
 
-<img src="resources/poster.pdf" width = "825px" />
+<img src="resources/poster.png" width = "825px" />
 
 </p>
