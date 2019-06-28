@@ -63,3 +63,10 @@ To understand how to determine and provide these values, read the full paper [he
 This independent work was advised by Professor Jia Deng. 
 
 Special thanks to Yinda Zhang and Nanyang Wang (developers of Pixel2Mesh) for their guidance and advice! 
+
+
+</br>
+<p align="center">
+<img src="resources/poster.png" width = "825px" />
+</p>
+
