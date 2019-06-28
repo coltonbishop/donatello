@@ -1,6 +1,6 @@
 # Donatello
 
-Donatello is the TensorFlow implementation of my research paper [Aided Modeling](bishopcolton.com) which proposes a topology and symmetry-aware deep learning architecture that incorporates user analysis to build upon a state of the art approach for generating 3D mesh models from 2D images described in [this paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf). This research project was advised my [Professor Jia Deng](https://www.cs.princeton.edu/~jiadeng/). 
+Donatello is the TensorFlow implementation of my research paper [Aided Modeling](bishopcolton.com) which proposes a topology and symmetry-aware deep learning architecture that incorporates user analysis to build upon a state of the art approach for generating 3D mesh models from 2D images described in [this paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf). This research project was advised my [Professor Jia Deng](https://www.cs.princeton.edu/~jiadeng/). Please visit the project page [here](bishopcolton.com) to learn more!
 
 ## Get Started with Donatello
 
@@ -11,7 +11,9 @@ Follow the instruction beow to build a copy of the project on your local machine
 Set up the Pixel2Mesh and Donatello environment with the following:
 
 Python2.7+ with Numpy and scikit-image
+
 Tensorflow (version 1.0+)
+
 TFLearn
 
 The code has been tested with Python 2.7, TensorFlow 1.3.0, TFLearn 0.3.2, CUDA 8.0 on Ubuntu 14.04.
@@ -45,27 +47,7 @@ Optionally, include any of the arguments below to provide the system with more i
 -t d (where d is one of the supported object domains) 
 ```
 
-To better understand how to determine and provide these values, 
-
-
-## Contributors
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc## Donatello
-
-```
-pip install donatello
-```
-
-</br>
-<p align="center">
-<img src="resources/poster.png" width = "825px" />
-</p>
+To understand how to determine and provide these values, read the full paper [here](bishopcolton.com).
 
 <p align="center">
 <img src="resources/domain.png" width = "200px" />
@@ -75,4 +57,9 @@ pip install donatello
 <img src="resources/sym.jpg" width = "200px" />
 </p>
 
-</br>
+
+## Acknowledgments
+
+This independent work was advised by Professor Jia Deng. 
+
+Special thanks to Yinda Zhang and Nanyang Wang (developers of Pixel2Mesh) for their guidance and advice! 
